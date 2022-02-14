@@ -27,7 +27,7 @@ Mobile design
 ### Links
 
 - Solution URL: [Code from GitHub](https://github.com/Juan13052001/Frontend-Challenge)
-- Live Site URL: [My Site](https://juan13052001.github.io/Frontend-Challenge/)
+- Live Site URL: [My Site](https://juan13052001.github.io/QR_code_component_challenge/)
 
 ## My process
 
